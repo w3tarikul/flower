@@ -184,9 +184,10 @@
     padding: 70px 0;
     text-align: center;
     height: 500px;
+    width: auto;
 }
 .newsletter {
-    background-image: url("assets/newsletter-banner-img.png");
+    background-image: url("assets/banner-flower.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
