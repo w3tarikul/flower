@@ -32,6 +32,10 @@
     cursor: pointer;
 }
 
+span{
+    color: #E55473;
+}
+
 /* =================================== Header Section start =============================== */
 .header {
     background: rgba(229, 84, 115, 0.10);
@@ -195,3 +199,22 @@
 }
 
 /* =================================== Newsletter Section END =============================== */
+
+
+
+.footer {
+    background-color: #111010;
+    padding: 70px;
+    text-align: center;
+    color: #FFFFFFE5;
+}
+.footer h2{
+    color: #FFFFFFE5;
+}
+.footer p{
+    color: #CACACA;
+}
+.footer .copyright {
+    color: #7C7C7C;
+    font-size: 11px;
+}
