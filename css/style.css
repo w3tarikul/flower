@@ -114,3 +114,83 @@
     font-family: 'lato';
     color: #272727;
 }
+
+/* =================================== Featured flower Section END =============================== */
+
+/* =================================== Support Section START =============================== */
+
+.support .row {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #2727270D;
+    padding: 60px 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.support .row img{
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+/* =================================== Support Section END =============================== */
+
+
+
+/* =================================== Hot Deal Section start =============================== */
+
+.hot-deal  {
+    background-color: #E554730D;
+    padding: 70px 0;
+    text-align: center;
+}
+.hot-deal .row {
+    display: flex;
+}
+.hot-deal .row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal .row img {
+    width: 70%;
+}
+
+/* =================================== Hot Deal Section END =============================== */
+
+
+
+/* =================================== Instagram Section END =============================== */
+
+.instagram {
+    padding: 70px 0;
+    text-align: center;
+}
+.instagram .img-row {
+    display: flex;
+
+}
+.instagram img{
+    width: 95%;
+}
+
+/* =================================== Instagram Section END =============================== */
+
+
+
+/* =================================== Newsletter Section START =============================== */
+
+.newsletter {
+    padding: 70px 0;
+    text-align: center;
+    height: 500px;
+}
+.newsletter {
+    background-image: url("assets/newsletter-banner-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+/* =================================== Newsletter Section END =============================== */
