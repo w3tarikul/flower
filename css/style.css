@@ -184,18 +184,14 @@ span{
 
 /* =================================== Newsletter Section START =============================== */
 
-.newsletter {
-    padding: 70px 0;
-    text-align: center;
-    height: 500px;
-    width: auto;
-}
-.newsletter {
-    background-image: url("assets/banner-flower.png");
+.newsletter .row {
+    padding: 100px 0;
+    background-image: url('1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
+    margin: 0 11%;
+    text-align: center;
 }
 
 /* =================================== Newsletter Section END =============================== */
