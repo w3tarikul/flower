@@ -183,16 +183,41 @@ span{
 
 
 /* =================================== Newsletter Section START =============================== */
-
+.newsletter {
+    margin-bottom: 70px;
+}
 .newsletter .row {
     padding: 100px 0;
-    background-image: url('1.png');
+    background-image: url('assets/1.png');
+    background-color: rgb(227, 227, 227);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin: 0 11%;
+    margin: 0 12.5%;
     text-align: center;
 }
+
+.newsletter input {
+    padding: 20px 30px;
+    background-color: #ffffff;
+    color: #7C7C7C;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-size: 15px;
+}
+.newsletter input:first-child {
+    width: 300px;
+    margin-right: 10px;
+}
+.newsletter input:last-child {
+    width: auto;
+    background-color: #E55473;
+    color: #ffffff;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
 
 /* =================================== Newsletter Section END =============================== */
 
