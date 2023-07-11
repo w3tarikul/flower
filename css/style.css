@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    width: 76%;
+    margin: auto;
+}
+.header {
+    background: rgba(229, 84, 115, 0.10);
+    padding-top: 40px;
+}
+
+.header .row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header .content  {
+    width: 40%;
+}
+
+.header .content h2 {
+    font-family: 'lato';
+    font-size: 48px;
+    font-weight: 800;
+    color: #272727;
+}
+
+.header .content p {
+    font-family: 'lato';
+    font-size: 12px;
+    color: rgba(39, 39, 39, 0.60);
+    padding: 20px 0;
+}
+.header .content .btn {
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    color: #ffffff;
+    font-family: 'lato';
+    text-transform: capitalize;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.header img{
+    width: 77%;
+    height: auto;
+}
+.header .banner-image {
+    text-align: right;
+    width: 60%;
+}
