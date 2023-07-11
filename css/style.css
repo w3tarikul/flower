@@ -188,7 +188,7 @@ span{
 }
 .newsletter .row {
     padding: 100px 0;
-    background-image: url('assets/1.png');
+    background-image: url('../assets/1.png');
     background-color: rgb(227, 227, 227);
     background-repeat: no-repeat;
     background-size: cover;
